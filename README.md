@@ -215,16 +215,6 @@ My map for making CRUD features goes as the following:
 
 <div>
 
-
-<div align="center">
-
-## Project Created By
-### Nawal Ahmed
-
-[![Nawal Ahmed - LinkedIn](https://img.shields.io/static/v1?label=Nawal+Ahmed&message=LinkedIn&color=%230077B5&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nawaljahmed/) [![Nawal Ahmed - GitHub](https://img.shields.io/static/v1?label=Nawal+Ahmed&message=GitHub&color=%23161B22&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/nawaljahmed)
-
-<div>
-
 <div align="center">
 
 ## Badges Found & Created Using
